@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hostels1.0", "Hostels1.0\Hostels1.0.csproj", "{EDAD4545-DEDC-4241-AC7C-D5F47F4FE17F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hostels.Core", "Hostels.Core\Hostels.Core.csproj", "{8AA10CCB-6E15-4178-944A-B7FB13FACF05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAD4545-DEDC-4241-AC7C-D5F47F4FE17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAD4545-DEDC-4241-AC7C-D5F47F4FE17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAD4545-DEDC-4241-AC7C-D5F47F4FE17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAD4545-DEDC-4241-AC7C-D5F47F4FE17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA10CCB-6E15-4178-944A-B7FB13FACF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA10CCB-6E15-4178-944A-B7FB13FACF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA10CCB-6E15-4178-944A-B7FB13FACF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA10CCB-6E15-4178-944A-B7FB13FACF05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

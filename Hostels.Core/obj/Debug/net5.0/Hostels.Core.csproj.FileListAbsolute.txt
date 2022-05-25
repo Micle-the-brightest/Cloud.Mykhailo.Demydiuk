@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\bin\Debug\net5.0\Hostels.Core.deps.json
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\bin\Debug\net5.0\Hostels.Core.dll
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\bin\Debug\net5.0\ref\Hostels.Core.dll
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\bin\Debug\net5.0\Hostels.Core.pdb
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\obj\Debug\net5.0\Hostels.Core.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\obj\Debug\net5.0\Hostels.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\obj\Debug\net5.0\Hostels.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\obj\Debug\net5.0\Hostels.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\obj\Debug\net5.0\Hostels.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\obj\Debug\net5.0\Hostels.Core.dll
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\obj\Debug\net5.0\ref\Hostels.Core.dll
+C:\Users\Asus\Desktop\Shpak\Hostels1.0\Hostels.Core\obj\Debug\net5.0\Hostels.Core.pdb
